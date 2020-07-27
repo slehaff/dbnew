@@ -11,5 +11,5 @@ class CnnModel(models.Model):
     last_trained = models.DateTimeField('last trained')
     epoke_count = models.IntegerField(default = 0)
 
-
+#
 
