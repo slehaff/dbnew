@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'train',
     'scan',
     'subscribe',
+    'wandtest',
     'dbt',
     'django.contrib.admin',
     'django.contrib.auth',
